@@ -18,9 +18,6 @@ The classification algorithms used for the terrain dataset are:
 - [Random Forest](classification_algorithms/random_forest)
 - [Adaboost (boosted decision tree)](classification_algorithms/adaboost)
 
-### Mini Project 3
-The aim here is to classify people who were involved in the Enron corporate fraud (POI - person of interest) and those who were not.
-
 ___
 
 ## How to start
