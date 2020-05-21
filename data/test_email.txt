@@ -1,0 +1,5 @@
+To: qwerty@keyboard.com
+From: elisa@computer.com
+X-FileName: test
+
+Hi! This is a test email to test the parse_email function to get words content from emails.
