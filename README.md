@@ -6,17 +6,17 @@ We have a set of emails, half of them written by one person and the other half w
 
 The classification algorithms used are:
 
-- [Naive Bayes]('Classification algorithms/MiniProject1 - text/naive_bayes')
-- [Support Vector Machine](classification_algorithms/svm)
-- [Decision Trees](classification_algorithms/decision_trees)
+- [Naive Bayes](Classification\algorithms/MiniProject1\-\text/naive_bayes)
+- [Support Vector Machine](Classification\algorithms/MiniProject1\-\text/svm)
+- [Decision Trees](Classification\algorithms/MiniProject1\-\text/decision_trees)
 
 ### Mini Project 2
 We have random generated data about terrain type, either bumpy or with slopes. The aim is too figure out whether a self-driving car can go fast or slow according to the type of terrain - a combination of different grades of slopiness and bumpiness.
 
 The classification algorithms used for the terrain dataset are:
-- [K Nearest Neighbour (k-NN)](classification_algorithms/knn)
-- [Random Forest](classification_algorithms/random_forest)
-- [Adaboost (boosted decision tree)](classification_algorithms/adaboost)
+- [K Nearest Neighbour (k-NN)](Classification\algorithms/MiniProject2\-\text/knn)
+- [Random Forest](Classification\algorithms/MiniProject2\-\text/random_forest)
+- [Adaboost (boosted decision tree)](Classification\algorithms/MiniProject2\-\text/adaboost)
 
 ___
 
