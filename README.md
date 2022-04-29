@@ -6,7 +6,7 @@ We have a set of emails, half of them written by one person and the other half w
 
 The classification algorithms used are:
 
-- [Naive Bayes](classification_algorithms/naive_bayes)
+- [Naive Bayes]('Classification algorithms/MiniProject1 - text/naive_bayes')
 - [Support Vector Machine](classification_algorithms/svm)
 - [Decision Trees](classification_algorithms/decision_trees)
 
