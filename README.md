@@ -1,4 +1,4 @@
-# Application of classification algorithims
+# Application of classification algorithms
 This project is based on the [course project material for the ML Udacity course UD120](https://github.com/udacity/ud120-projects). The aim is to apply different ML _classification_ algorithms to some datasets.
 
 ### Mini Project 1
