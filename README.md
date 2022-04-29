@@ -1,5 +1,5 @@
 # Application of classification algorithms
-This project is based on the [course project material for the ML Udacity course UD120](https://github.com/udacity/ud120-projects). The aim is to apply different ML _classification_ algorithms to some datasets.
+The aim of this project is to apply different ML _classification_ algorithms to some datasets.
 
 ### Mini Project 1
 We have a set of emails, half of them written by one person and the other half written by another person at the same company. The aim is to classify the emails as written by one person or the other based on the analysis of the text of the email. The set of email used is the [Enron Corpus](https://en.wikipedia.org/wiki/Enron_Corpus) email set.
